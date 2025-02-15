@@ -1,0 +1,50 @@
+{
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "5D8F13AB0A91F3C4B90F666D22D2FA0DFBBCBC06" : 0,
+    "FDFA8CEA9E51F49827F55DDFCD8B742E09D86928" : 0,
+    "0CC3BDD932F2BBD0A56A619053FF1076DAD8824B" : 0,
+    "6BCF6A8705E0B0CFE6DEC99DA651569D80387ECD" : 0,
+    "0F4E8773FF29E521CD40AF042952391289230AF9" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "5953BB21-DBD7-4697-9BC1-13784714CA03",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "5D8F13AB0A91F3C4B90F666D22D2FA0DFBBCBC06" : "DerivedData\/Rainbowbeast_Copilot%20for%20Xcode\/SourcePackages\/checkouts\/swift-argument-parser\/",
+    "FDFA8CEA9E51F49827F55DDFCD8B742E09D86928" : "DerivedData\/Rainbowbeast_Copilot%20for%20Xcode\/SourcePackages\/checkouts\/swift-asn1\/",
+    "0CC3BDD932F2BBD0A56A619053FF1076DAD8824B" : "DerivedData\/Rainbowbeast_Copilot%20for%20Xcode\/SourcePackages\/checkouts\/swift-algorithms\/",
+    "6BCF6A8705E0B0CFE6DEC99DA651569D80387ECD" : "DerivedData\/Rainbowbeast_Copilot%20for%20Xcode\/SourcePackages\/checkouts\/swift-crypto\/",
+    "0F4E8773FF29E521CD40AF042952391289230AF9" : "DerivedData\/Rainbowbeast_Copilot%20for%20Xcode\/SourcePackages\/checkouts\/swift-numerics\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : ".",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : ".",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "\/Users\/rainbowbeast\/Desktop\/MyBuildToolPlugin\/Plugins\/Original%20Images\/DerivedData\/Rainbowbeast_Copilot%20for%20Xcode\/SourcePackages\/repositories\/swift-algorithms-bf5a01cd",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "0CC3BDD932F2BBD0A56A619053FF1076DAD8824B"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "\/Users\/rainbowbeast\/Desktop\/MyBuildToolPlugin\/Plugins\/Original%20Images\/DerivedData\/Rainbowbeast_Copilot%20for%20Xcode\/SourcePackages\/repositories\/swift-numerics-d936ec6c",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "0F4E8773FF29E521CD40AF042952391289230AF9"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "\/Users\/rainbowbeast\/Desktop\/MyBuildToolPlugin\/Plugins\/Original%20Images\/DerivedData\/Rainbowbeast_Copilot%20for%20Xcode\/SourcePackages\/repositories\/swift-argument-parser-54a11a8d",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "5D8F13AB0A91F3C4B90F666D22D2FA0DFBBCBC06"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "\/Users\/rainbowbeast\/Desktop\/MyBuildToolPlugin\/Plugins\/Original%20Images\/DerivedData\/Rainbowbeast_Copilot%20for%20Xcode\/SourcePackages\/repositories\/swift-crypto-7e0614ea",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "6BCF6A8705E0B0CFE6DEC99DA651569D80387ECD"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "\/Users\/rainbowbeast\/Desktop\/MyBuildToolPlugin\/Plugins\/Original%20Images\/DerivedData\/Rainbowbeast_Copilot%20for%20Xcode\/SourcePackages\/repositories\/swift-asn1-7065ad2c",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "FDFA8CEA9E51F49827F55DDFCD8B742E09D86928"
+    }
+  ]
+}
